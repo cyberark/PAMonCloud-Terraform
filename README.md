@@ -21,7 +21,7 @@ Before using these modules, ensure you have the following:
 - **Terraform** installed  
 - AWS or Azure accounts with necessary permissions for deploying resources  
 
-Refer to the [Prerequisites](#link-to-prerequisites-section) section in our documentation for detailed setup instructions. // add docs url
+Refer to the [Prerequisites](https://docs.cyberark.com/pam-self-hosted/latest/en/content/pas%20cloud/deploy_terraform.htm#Prerequisites) section in our documentation for detailed setup instructions.
 
 ## Quick Start  
 To get started:  
@@ -45,10 +45,10 @@ To get started:
    terraform apply  
    ```
 
-6. Follow the post-deployment steps in the [User Guide](#link-to-user-guide). // add docs url
+6. Follow the post-deployment steps in the [Post Installation Guide](https://docs.cyberark.com/pam-self-hosted/latest/en/content/pas%20cloud/post-installation.htm).
 
 ## Documentation  
-- [User Guide](#link-to-user-guide): Comprehensive instructions for deployment, configuration, and troubleshooting.  // add docs url
+- [User Guide](https://docs.cyberark.com/pam-self-hosted/latest/en/content/pas%20cloud/deploy_terraform.htm): Comprehensive instructions for deployment, configuration, and troubleshooting.  
 - [Modules](https://github.com/cyberark/PAMonCloud-terraform/tree/master/modules): Detailed documentation for each Terraform module.  
 - [Examples](https://github.com/cyberark/PAMonCloud-terraform/tree/master/examples): Ready-to-use examples for various architectures.  
 
